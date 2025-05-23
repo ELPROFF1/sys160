@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "owners": [
+        "1070350147420172288",
+        "1245512323410559036",
+        ""
+    ],
+    "Guild": "1245512127306010654",
+    "token": "MTM3NDQ0NTQxNzY1MTExMDAzMQ.GGneAS.8Ntuhw5IGXm04GaO82oXSu-awLA5OQudsv_AhA",
+    "db": "mongodb+srv://tryhard14090:bilalnoob7@cluster0.6eywwcv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
